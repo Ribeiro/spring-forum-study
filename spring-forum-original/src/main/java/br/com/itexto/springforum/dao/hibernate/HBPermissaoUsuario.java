@@ -35,6 +35,8 @@ public class HBPermissaoUsuario implements DAOPermissaoUsuario {
 			sessionFactory.getCurrentSession().saveOrUpdate(permissao);
 		}
 		
+		//FIXME Testando .....
+		
 	}
 
 }
